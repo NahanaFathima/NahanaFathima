@@ -14,14 +14,6 @@ Final-year CS (AI) student at Adi Shankara Institute of Engineering and Technolo
 ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=spacy&logoColor=white)
 
 
-![Nahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahanaFathima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NahanaFathima&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahanaFathima&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
 
 ## 📌 Currently
 
@@ -36,4 +28,3 @@ Final-year CS (AI) student at Adi Shankara Institute of Engineering and Technolo
 - 📧 nehnasana@gmail.com
 - 💼 www.linkedin.com/in/nahana-fathima-7a0170291
 - 📍 Aluva, Kerala · Remote-ready
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NahanaFathima&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
