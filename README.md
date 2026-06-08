@@ -32,7 +32,7 @@ Built for the Useless Project Hackathon. A platform where everyday objects are p
 
 ## 📌 Currently
 
-- 📚 6th semester out of 8 · CGPA 7.66/10 · Graduating 2027
+- 📚 7th semester out of 8 · CGPA 7.66/10 · Graduating 2027
 - 🔭 Deepening ML skills, exploring LLM integrations
 - 🌍 Open to remote roles — internships, part-time, or freelance
 
