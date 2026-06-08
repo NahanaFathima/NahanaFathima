@@ -36,4 +36,4 @@ Final-year CS (AI) student at Adi Shankara Institute of Engineering and Technolo
 - 📧 nehnasana@gmail.com
 - 💼 www.linkedin.com/in/nahana-fathima-7a0170291
 - 📍 Aluva, Kerala · Remote-ready
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=NahanaFathima&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=NahanaFathima&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
